@@ -1,0 +1,11 @@
+D:\Studium SAE\SpeedCoding\SpeedCodingWordCheck\SpeedCodingWordCheck\bin\Debug\netcoreapp2.1\SpeedCodingWordCheck.deps.json
+D:\Studium SAE\SpeedCoding\SpeedCodingWordCheck\SpeedCodingWordCheck\bin\Debug\netcoreapp2.1\SpeedCodingWordCheck.runtimeconfig.json
+D:\Studium SAE\SpeedCoding\SpeedCodingWordCheck\SpeedCodingWordCheck\bin\Debug\netcoreapp2.1\SpeedCodingWordCheck.runtimeconfig.dev.json
+D:\Studium SAE\SpeedCoding\SpeedCodingWordCheck\SpeedCodingWordCheck\bin\Debug\netcoreapp2.1\SpeedCodingWordCheck.dll
+D:\Studium SAE\SpeedCoding\SpeedCodingWordCheck\SpeedCodingWordCheck\bin\Debug\netcoreapp2.1\SpeedCodingWordCheck.pdb
+D:\Studium SAE\SpeedCoding\SpeedCodingWordCheck\SpeedCodingWordCheck\obj\Debug\netcoreapp2.1\SpeedCodingWordCheck.csprojAssemblyReference.cache
+D:\Studium SAE\SpeedCoding\SpeedCodingWordCheck\SpeedCodingWordCheck\obj\Debug\netcoreapp2.1\SpeedCodingWordCheck.csproj.CoreCompileInputs.cache
+D:\Studium SAE\SpeedCoding\SpeedCodingWordCheck\SpeedCodingWordCheck\obj\Debug\netcoreapp2.1\SpeedCodingWordCheck.AssemblyInfoInputs.cache
+D:\Studium SAE\SpeedCoding\SpeedCodingWordCheck\SpeedCodingWordCheck\obj\Debug\netcoreapp2.1\SpeedCodingWordCheck.AssemblyInfo.cs
+D:\Studium SAE\SpeedCoding\SpeedCodingWordCheck\SpeedCodingWordCheck\obj\Debug\netcoreapp2.1\SpeedCodingWordCheck.dll
+D:\Studium SAE\SpeedCoding\SpeedCodingWordCheck\SpeedCodingWordCheck\obj\Debug\netcoreapp2.1\SpeedCodingWordCheck.pdb
